@@ -1,0 +1,54 @@
+/* Set the background color to black and text color to white */
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Style the introduction section */
+h1 {
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Center align all images */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
+
+/* Style starters.jpg with a blue solid border */
+#starters_image_div img {
+    border: 5px solid blue;
+    width: 30%;
+}
+
+/* Style the text after bulbasaur.png */
+#bulbasaur_container {
+    background-color: rgb(140, 198, 131);
+    border: 5px solid rgb(255, 244, 92);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 50px;
+}
+
+/* Style the text after charmander.png */
+#charmander_container {
+    background-color:rgb(254, 148, 91);
+    border: 5px solid rgb(255, 244, 92);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 50px;
+}
+
+/* Style the text after squirtle.png */
+#squirtle_container {
+    background-color: rgb(134, 190, 210);
+    border: 5px solid rgb(255, 244, 92);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 50px;
+}
